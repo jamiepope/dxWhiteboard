@@ -17,8 +17,8 @@ title: Delphix Discovery Whiteboard
 email: jamie.pope@delphix.com
 description: >- # this means to ignore newlines until "baseurl:"
   Repo - Discovery Whiteboard Framework
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/dxWhiteboard" # the subpath of your site, e.g. /blog
+url: "https://jamiepope.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jpizzo
 github_username:  jamiepope
 
