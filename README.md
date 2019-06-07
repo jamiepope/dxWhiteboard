@@ -5,11 +5,11 @@ This is a working repository for the new Discovery Whiteboard Framework.
 
 ## Usage
 
-Files can be edited on the [Github site](https://github.com/jamiepope/dxWhiteboard/), or locally. For full instructions on how to edit files locally using Jekyll, [follow the tutorial on 24 ways](http://24ways.org/2013/get-started-with-github-pages/).
+To contribute to this project, please fork and clone this repository. If you are new to Git and Github, take a look over [introduction guide](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
 Documents are formatted in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-Jekyll generates the raw files into the <i>_site</i> folder, so do no edit any of the files in here.
+Jekyll generates the raw files into the ***_site folder***, so do no edit any of the files in here please.
 
 ## Further Reading
 
